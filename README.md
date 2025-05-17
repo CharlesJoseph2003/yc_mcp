@@ -49,7 +49,7 @@ The server provides the following tools:
 ## Data Source
 
 This server uses the YC OSS API to fetch company data from:
-`https://yc-oss.github.io/api/`
+`https://github.com/yc-oss/api`
 
 ## License
 
