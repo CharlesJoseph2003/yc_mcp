@@ -33,8 +33,8 @@ pip install -r requirements.txt
 ```bash
 mcp install yc_mcp.py --name "YC Directory Server"
 ```
-Will auto install in Claude Desktop as a tool
-May have to go into task manager, end the Claude Desktop task and restart Desktop to see the tool
+- Will auto install in Claude Desktop as a tool.
+- May have to go into task manager, end the Claude Desktop task and restart Desktop to see the tool
 
 ## API Tools
 
