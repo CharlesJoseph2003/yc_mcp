@@ -1,6 +1,6 @@
 # YC Directory Server
 
-A MCP (Multi-agent Communication Protocol) server that provides tools to access and search Y Combinator company data.
+A MCP (Model Context Protocal) server that provides tools to access and search Y Combinator company data.
 
 ## Features
 
