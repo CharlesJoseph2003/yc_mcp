@@ -32,26 +32,11 @@ pip install -r requirements.txt
 
 ```bash
 mcp install yc_mcp.py --name "YC Server"
+Will auto install in Claude Desktop as a tool
+May have to go into task manager, end the Claude Desktop task and restart Desktop to see the tool
+
 ```
 
-### Run the Server
-
-You can run the server in several ways:
-
-**Direct Python execution:**
-```bash
-python yc_mcp.py
-```
-
-**Development mode:**
-```bash
-mcp dev yc_mcp.py
-```
-
-**Production mode:**
-```bash
-mcp run yc_mcp.py
-```
 
 ## API Tools
 
